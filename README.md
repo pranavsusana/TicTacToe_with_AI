@@ -46,7 +46,7 @@ minimax(0, 0, true, -INFINITY, +INFINITY)
 ~~~~
 
 ### Minimax Algorithm Visualisation
-![alt text](https://github.com/Prajwal-P/TicTacToe-with-AI/blob/master/MiniMax-algorithm.png)
+![alt text](https://github.com/pranavsusana/TicTacToe_with_AI/blob/main/MiniMax-algorithm.png)
 
 ### Instructions to run:
 #### Windows
